@@ -44,10 +44,10 @@
     "swagger-tools": "^0.10.1"
   },
   "dependencies": {
+    "@airbnb/node-memwatch": "^1.0.2",
     "event-loop-stats": "^1.0.0",
     "gc-stats": "^1.0.2",
     "measured": "^1.1.0",
-    "memwatch-next": "^0.3.0",
     "node-schedule": "^1.2.4",
     "pidusage": "^1.1.6"
   }

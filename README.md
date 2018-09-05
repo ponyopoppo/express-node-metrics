@@ -103,7 +103,7 @@ When execute with reset equals `reset=true` after retrieving the metrics all the
 
 Retrieve the process metrics.
 The process metrics include:
-* Memory usage - using [node v4 process object] (https://nodejs.org/dist/latest-v4.x/docs/api/process.html#process_process_memoryusage) and [memwatch-next package] (https://www.npmjs.com/package/memwatch-next)
+* Memory usage - using [node v4 process object] (https://nodejs.org/dist/latest-v4.x/docs/api/process.html#process_process_memoryusage) and [node-memwatch package] (https://www.npmjs.com/package/@airbnb/node-memwatch)
 * CPU usage - using [pidusage package] (https://www.npmjs.com/package/pidusage) 
 * GC - using [gc-stats package] (https://www.npmjs.com/package/gc-stats) 
 * Event loop latency - using [event-loop-stats package] (https://www.npmjs.com/package/event-loop-stats)
